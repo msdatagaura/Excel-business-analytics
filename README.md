@@ -121,7 +121,15 @@ Key findings:
 5.Classes A / B / C differ by revenue and by profit (e.g. Toner HP 12A, Reproduktor BT).
 6.Data for 2026 runs only until May, so like-for-like periods must be compared.
 
+## 6. Screenshots 
 
 <img width="1416" height="995" alt="Dashoard-sales-report-director" src="https://github.com/user-attachments/assets/37fb8182-9f7b-4c67-82e2-c3b8dc325770" />
+<img width="1920" height="1080" alt="Dashboard-predaj-kanal" src="https://github.com/user-attachments/assets/b77b3eb8-5c17-494f-a852-7482138acc6f" />
+<img width="1920" height="1080" alt="prehlad-predaj-region" src="https://github.com/user-attachments/assets/292ba6fa-0780-48c9-b240-cf0b86e7c7e8" />
+<img width="1920" height="1080" alt="prehlad-predaj-produkty" src="https://github.com/user-attachments/assets/a0ef3350-aa7b-49d3-96c9-60702f911505" />
+<img width="1920" height="1080" alt="prehlad-predaja-kategorie" src="https://github.com/user-attachments/assets/c9b07152-0e59-4b88-b1bf-c68ff13c662f" />
+
+
+
 
 
