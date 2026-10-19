@@ -75,21 +75,21 @@ Ukázať vývoj tržieb, zisku a marže po rokoch a mesiacoch.
 Pripraviť pre riaditeľa zjednodušený prehľad hlavných ukazovateľov.
 Kľúčové vizualizácie:
 
-KPI cards: tržby, zisk, náklady, marža %
-Filtre: rok, mesiac, región, kategória, segment
-Graf Top 10 produktov: súčet tržieb a zisku
-ABC analýza podľa tržieb a podľa zisku (hranice 80 % a 95 % kumulatívneho podielu)
-Vývoj tržieb, zisku a marže po rokoch a mesiacoch
-Podiel tržieb podľa segmentu, kategórie a kanála
+1.KPI cards: tržby, zisk, náklady, marža %
+2.Filtre: rok, mesiac, región, kategória, segment
+3.Graf Top 10 produktov: súčet tržieb a zisku
+4.ABC analýza podľa tržieb a podľa zisku (hranice 80 % a 95 % kumulatívneho podielu)
+5.Vývoj tržieb, zisku a marže po rokoch a mesiacoch
+6.Podiel tržieb podľa segmentu, kategórie a kanála
 
 Kľúčové zistenia:
 
-Celkové tržby 4,23 mil. Kč, zisk 1,23 mil. Kč, marža 29,1 %.
-Elektronika tvorí 49,5 % tržieb, ale má najnižšiu maržu (24,8 %). Sport má najvyššiu maržu (36,7 %).
-Notebook 14" tvorí 33 % všetkých tržieb, ale len 28 % zisku.
-ABC analýza: 9 produktov (trieda A) tvorí cca 79 % tržieb, 13 produktov (trieda C) len cca 5 %.
-Triedy A / B / C sa podľa tržieb a podľa zisku líšia (napr. Toner HP 12A, Reproduktor BT).
-Údaje za rok 2026 sú len do mája, preto je potrebné porovnávať rovnaké obdobia.
+1.Celkové tržby 4,23 mil. Kč, zisk 1,23 mil. Kč, marža 29,1 %.
+2.Elektronika tvorí 49,5 % tržieb, ale má najnižšiu maržu (24,8 %). Sport má najvyššiu maržu (36,7 %).
+3.Notebook 14" tvorí 33 % všetkých tržieb, ale len 28 % zisku.
+4.ABC analýza: 9 produktov (trieda A) tvorí cca 79 % tržieb, 13 produktov (trieda C) len cca 5 %.
+5.Triedy A / B / C sa podľa tržieb a podľa zisku líšia (napr. Toner HP 12A, Reproduktor BT).
+6.Údaje za rok 2026 sú len do mája, preto je potrebné porovnávať rovnaké obdobia.
 
 Problem Definition:
 
@@ -105,21 +105,21 @@ Prepare a simplified overview of the main indicators for the director.
 
 Key visualizations:
 
-KPI cards: revenue, profit, costs, margin %
-Filters: year, month, region, category, segment
-Top 10 products chart: total revenue and profit
-ABC analysis by revenue and by profit (thresholds at 80 % and 95 % cumulative share)
-Development of revenue, profit and margin by year and month
-Share of revenue by segment, category and channel
+1.KPI cards: revenue, profit, costs, margin %
+2.Filters: year, month, region, category, segment
+3.Top 10 products chart: total revenue and profit
+4.ABC analysis by revenue and by profit (thresholds at 80 % and 95 % cumulative share)
+5.Development of revenue, profit and margin by year and month
+6.Share of revenue by segment, category and channel
 
 Key findings:
 
-Total revenue CZK 4.23 million, profit CZK 1.23 million, margin 29.1 %.
-Electronics account for 49.5 % of revenue but have the lowest margin (24.8 %). Sport has the highest margin (36.7 %).
-Notebook 14" generates 33 % of total revenue but only 28 % of profit.
-ABC analysis: 9 products (class A) generate about 79 % of revenue, while 13 products (class C) generate only about 5 %.
-Classes A / B / C differ by revenue and by profit (e.g. Toner HP 12A, Reproduktor BT).
-Data for 2026 runs only until May, so like-for-like periods must be compared.
+1.Total revenue CZK 4.23 million, profit CZK 1.23 million, margin 29.1 %.
+2.Electronics account for 49.5 % of revenue but have the lowest margin (24.8 %). Sport has the highest margin (36.7 %).
+3.Notebook 14" generates 33 % of total revenue but only 28 % of profit.
+4.ABC analysis: 9 products (class A) generate about 79 % of revenue, while 13 products (class C) generate only about 5 %.
+5.Classes A / B / C differ by revenue and by profit (e.g. Toner HP 12A, Reproduktor BT).
+6.Data for 2026 runs only until May, so like-for-like periods must be compared.
 
 
 <img width="1416" height="995" alt="Dashoard-sales-report-director" src="https://github.com/user-attachments/assets/37fb8182-9f7b-4c67-82e2-c3b8dc325770" />
