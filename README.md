@@ -1,3 +1,6 @@
+<img width="1200" height="630" alt="Eshop Sales Excel Dashboard" src="https://github.com/user-attachments/assets/6272081b-b1ac-41bc-bd81-5620a109ff4b" />
+
+
 # Eshop-Sales-Excel-Dashboard
 Excel dashboard o predaji e-shopu pre category managera a riaditeľa. 
 Dáta boli spracované v Exceli pomocou kontingenčných tabuliek, slicerov a kontingenčných grafov.
